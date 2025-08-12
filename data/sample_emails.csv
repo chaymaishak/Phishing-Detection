@@ -1,0 +1,7 @@
+id,text,label
+1,"Dear user, Your account will be closed. Click here to verify: http://malicious.example.com",phishing
+2,"Hi John, the meeting is rescheduled to 3pm. Regards, Sarah",legitimate
+3,"Important: Update your payment information at http://fakebank.example.com to avoid suspension",phishing
+4,"Monthly report attached. Let me know if you have questions.",legitimate
+5,"Your invoice is attached. Please pay immediately to avoid late fees.",legitimate
+6,"Please review the attached document and sign. Login at http://login.example.com",phishing
